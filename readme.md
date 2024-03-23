@@ -1,0 +1,1 @@
+This is a Simple Command  Line Interface (CLI) Calcutor I have created acoording to the given assignments,I also added Modulus and Power operator.
